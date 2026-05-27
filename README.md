@@ -162,14 +162,20 @@ You do not need to open port **3306** publicly because MySQL runs internally ins
 ---
 # 📸 Application Screenshots
 
-```text
-images/Database.jpg
-```
-```text
-images/output.jpg
-```
-```text
-images/security-group.jpg
-```
+## 🌐 Home Page
+
+![Home Page](images/output.jpg)
+
+---
+
+## 🗄️ MySQL Database
+
+![Database](images/Database.jpg)
+
+---
+
+## 🔐 AWS Security Group
+
+![Security Group](images/security-group.jpg)
 
 
